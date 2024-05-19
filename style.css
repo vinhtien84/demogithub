@@ -1,0 +1,41 @@
+.title{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+.img{
+    display: flex;
+    margin: 0 auto;
+    margin-top: -50px;
+}
+.member {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-top:-40px;
+  }
+#ade{
+    margin-left: 100px;
+}
+#ade span{
+    margin-left: 160px;
+}
+.img_bg{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-top: 320px;
+    z-index: -9999;
+}
+.img_bg2{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-top: 325px;
+    margin-left: 1100px;
+    z-index: -9999;
+}
